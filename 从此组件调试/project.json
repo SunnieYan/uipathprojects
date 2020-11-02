@@ -1,6 +1,6 @@
 {
   "name": "分布调试",
-  "description": "测试调试11",
+  "description": "测试调试1122",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
