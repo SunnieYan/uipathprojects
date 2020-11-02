@@ -87,7 +87,7 @@
               <OutArgument x:TypeArguments="x:Double">[d]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:Double">222</InArgument>
+              <InArgument x:TypeArguments="x:Double">333</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
         </scg:List>
@@ -126,7 +126,7 @@
             <OutArgument x:TypeArguments="x:Int32">[b]</OutArgument>
           </Assign.To>
           <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">2</InArgument>
+            <InArgument x:TypeArguments="x:Int32">33</InArgument>
           </Assign.Value>
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -323,7 +323,7 @@
             <av:Size x:Key="ShapeSize">200,53</av:Size>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <ui:CustomInput Height="{x:Null}" Result="{x:Null}" URI="{x:Null}" Width="{x:Null}" DisplayName="自定义输入" sap:VirtualizedContainerService.HintSize="334,90" sap2010:WorkflowViewState.IdRef="CustomInput_1">
+        <ui:CustomInput Height="{x:Null}" Result="{x:Null}" URI="{x:Null}" Width="{x:Null}" DisplayName="自定义输入" sap:VirtualizedContainerService.HintSize="200,53" sap2010:WorkflowViewState.IdRef="CustomInput_1">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
